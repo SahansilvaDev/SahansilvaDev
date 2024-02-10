@@ -17,7 +17,10 @@ Happy coding! 😊👨‍💻
 
 - 📫 How to reach me sahansilva.online@gmail.com
 
-<img alt="" border="0" data-original-height="400" data-original-width="1369" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeFmeTUxZUxOBz4j2ODeWHGpGXOQ40lU6ts__bXfCiTBW2APgOBxB1Pi6PwP4eh5rT5tUBEqnCDOdBZWQeRcELdKRunsZO9F1LucwZKtHjzd4_vamKI7Jkdflfn0TR8Z_phYTYBh-ZhVZf_1boln5dtfuKWuqzHzX3ff4CVulG9Le2MJ4zipRRRaMEFMOV/s1600/github%20cover.gif"/>
+  
+<img alt="" border="0" data-original-height="706" data-original-width="1369" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeFmeTUxZUxOBz4j2ODeWHGpGXOQ40lU6ts__bXfCiTBW2APgOBxB1Pi6PwP4eh5rT5tUBEqnCDOdBZWQeRcELdKRunsZO9F1LucwZKtHjzd4_vamKI7Jkdflfn0TR8Z_phYTYBh-ZhVZf_1boln5dtfuKWuqzHzX3ff4CVulG9Le2MJ4zipRRRaMEFMOV/s1600/github%20cover.gif"/>
+
+
 <!---
 SahansilvaDev/SahansilvaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
