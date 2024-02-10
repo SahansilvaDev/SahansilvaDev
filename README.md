@@ -16,9 +16,6 @@ Happy coding! 😊👨‍💻
 
 - 📫 How to reach me sahansilva.online@gmail.com
 
-
-<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeActPgq91ZW5MDKqvxjIpoKmtrx8xcioAvcZE8U_UeKuGLQjNQp4T2pYcucHRog4l_AzPxjmP-2HqB0pMGb9zXp1OoLnUsdVgd_etxjAtXny_6i4YRs_umlK6LA0nO9UCVbOvNgrZ-2kmnjhJX0n3LWKXhYHjWXbwi7RxcFakfUo9THmaze18t4G17-u/s1600/6.4%25.gif" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="560" data-original-width="1190" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeActPgq91ZW5MDKqvxjIpoKmtrx8xcioAvcZE8U_UeKuGLQjNQp4T2pYcucHRog4l_AzPxjmP-2HqB0pMGb9zXp1OoLnUsdVgd_etxjAtXny_6i4YRs_umlK6LA0nO9UCVbOvNgrZ-2kmnjhJX0n3LWKXhYHjWXbwi7RxcFakfUo9THmaze18t4G17-u/s1600/6.4%25.gif"/></a></div>
-
 <!---
 SahansilvaDev/SahansilvaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
