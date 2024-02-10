@@ -1,4 +1,3 @@
-
 <img alt="" border="0" data-original-height="706" data-original-width="1369" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPm56SBbKMSfYHD44TFy6eQJSCfxwh7W_PF90KeTObChyTbJzkD258sjQH9Lz7DranGXj30rbvL8zHQ4nIdmEKqD0WGFL1F8zbh7Sstlm0NEXokIU720siEbNCB9x4S5r5zRafMEdFuFmBmk4AvA4CPZK-t8kvH5V94KkydwAswe39MQSMom7t8rl4jXbY/s1600/output-onlinegiftools.gif"/>
 
 <div align="center">
@@ -17,8 +16,7 @@ Happy coding! 😊👨‍💻
 
 - 📫 How to reach me sahansilva.online@gmail.com
 
-  
-<img alt="" border="0" data-original-height="706" data-original-width="1369" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeFmeTUxZUxOBz4j2ODeWHGpGXOQ40lU6ts__bXfCiTBW2APgOBxB1Pi6PwP4eh5rT5tUBEqnCDOdBZWQeRcELdKRunsZO9F1LucwZKtHjzd4_vamKI7Jkdflfn0TR8Z_phYTYBh-ZhVZf_1boln5dtfuKWuqzHzX3ff4CVulG9Le2MJ4zipRRRaMEFMOV/s1600/github%20cover.gif"/>
+
 
 
 <!---
