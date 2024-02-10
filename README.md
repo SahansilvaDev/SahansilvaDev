@@ -17,10 +17,7 @@ Happy coding! 😊👨‍💻
 
 - 📫 How to reach me sahansilva.online@gmail.com
 
-<div style="float:left; margin-right:20px;">
-  <img alt="" border="0" data-original-height="500" data-original-width="2500" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwjkKO49-OTp4zyvsoFfjjtUy-uenVcg0E8vlO977lSK1-nOE-5wGfoQjWjYojQoeFjkyUeyKEVwg2HgIVh85ibnqTZBgROQcbK3TtgHA1EY5LWISPA7Wx5glCI2yFHhRlDsSGi0KlKkYkvHKcsS3dt_OfE99emRVacHoR_wjUIKfDapmOc4B0kPWUNkQZ/s1600/Developer%20activity%20sahan%20silva.gif"/>
-</div>
-
+<img alt="" border="0" data-original-height="400" data-original-width="1369" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeFmeTUxZUxOBz4j2ODeWHGpGXOQ40lU6ts__bXfCiTBW2APgOBxB1Pi6PwP4eh5rT5tUBEqnCDOdBZWQeRcELdKRunsZO9F1LucwZKtHjzd4_vamKI7Jkdflfn0TR8Z_phYTYBh-ZhVZf_1boln5dtfuKWuqzHzX3ff4CVulG9Le2MJ4zipRRRaMEFMOV/s1600/github%20cover.gif"/>
 
 <!---
 SahansilvaDev/SahansilvaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
