@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Sahan Silva (@SahansilvaDev)
-👋 Hello, I'm Sahan Silva!
+👋 Hello, I’m Sahan Silva (@SahansilvaDev)
 
 🚀 React JS Developer | Flutter Developer | Android Developer | Web Developer | Java Programmer.
 
