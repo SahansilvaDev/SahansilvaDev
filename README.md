@@ -6,31 +6,33 @@
 
 
 🚀 About Me
-Hey there! I'm Sahan Silva, a passionate and versatile developer currently studying Data Science. I have a strong background in various areas of software development, and I'm always eager to learn and take on new challenges. Here’s a quick snapshot of what I do:
+Hey there! I'm Sahan Silva, a passionate and versatile developer currently studying Data Science. I have a strong background in various areas of software development, and I'm always eager to learn and take on new challenges. <br>
 
-React JS Developer | Flutter Developer | Android Developer | Web Developer | Java Programmer.
+Here’s a quick snapshot of what I do:<br>
+<br>
+React JS Developer | Flutter Developer | Android Developer | Web Developer | Java Programmer<br>
 
-📚 Aspiring Data Science Student with a passion for exploring the depths of data.
+📚 Aspiring Data Science Student with a passion for exploring the depths of data.<br><br>
 
-💡 Content Creator sharing insights and knowledge about software development, data science, and tech trends.
+💡 Content Creator sharing insights and knowledge about software development, data science, and tech trends.<br><br>
 
-🌱 Currently Learning
-Data Science: Exploring the fascinating world of data analysis, machine learning, and artificial intelligence.
-
-
-
-
-🌐 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and drop a star ⭐ if you find something interesting!
+🌱 Currently Learning<br>
+Data Science: Exploring the fascinating world of data analysis, machine learning, and artificial intelligence.<br><br><br>
 
 
-💡 Interests
-  Data Analysis
-  Machine Learning
-  Open Source Contributions
-  Tech Community Engagement
 
 
-Happy coding! 😊👨‍💻
+🌐 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and drop a star ⭐ if you find something interesting!<br><br>
+
+
+💡 Interests<br>
+  Data Analysis<br>
+  Machine Learning<br>
+  Open Source Contributions<br>
+  Tech Community Engagement<br>
+
+
+Happy coding! 😊👨‍💻<br>
 
 - 📫 How to reach me sahansilva.online@gmail.com
 
