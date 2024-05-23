@@ -4,13 +4,32 @@
   <h1 style="font-size: 36px;">👋 Hello, I'm Sahan Silva (@SahansilvaDev)</h1>
 </div>
 
-🚀 React JS Developer | Flutter Developer | Android Developer | Web Developer | Java Programmer.
+:
+
+🚀 About Me
+Hey there! I'm Sahan Silva, a passionate and versatile developer currently studying Data Science. I have a strong background in various areas of software development, and I'm always eager to learn and take on new challenges. Here’s a quick snapshot of what I do:
+
+React JS Developer | Flutter Developer | Android Developer | Web Developer | Java Programmer.
 
 📚 Aspiring Data Science Student with a passion for exploring the depths of data.
 
 💡 Content Creator sharing insights and knowledge about software development, data science, and tech trends.
 
+🌱 Currently Learning
+Data Science: Exploring the fascinating world of data analysis, machine learning, and artificial intelligence.
+
+
+
+
 🌐 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and drop a star ⭐ if you find something interesting!
+
+
+💡 Interests
+  Data Analysis
+  Machine Learning
+  Open Source Contributions
+  Tech Community Engagement
+
 
 Happy coding! 😊👨‍💻
 
