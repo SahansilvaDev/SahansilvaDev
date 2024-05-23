@@ -8,9 +8,8 @@
 🚀 About Me
 Hey there! I'm Sahan Silva, a passionate and versatile developer currently studying Data Science. I have a strong background in various areas of software development, and I'm always eager to learn and take on new challenges. <br>
 
-Here’s a quick snapshot of what I do:<br>
-<br>
-React JS Developer | Flutter Developer | Android Developer | Web Developer | Java Programmer<br>
+<br><br>
+React JS Developer | Flutter Developer | Android Developer | Web Developer | Java Programmer<br><br><br>
 
 📚 Aspiring Data Science Student with a passion for exploring the depths of data.<br><br>
 
@@ -21,7 +20,6 @@ Data Science: Exploring the fascinating world of data analysis, machine learning
 
 
 
-
 🌐 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and drop a star ⭐ if you find something interesting!<br><br>
 
 
@@ -29,7 +27,7 @@ Data Science: Exploring the fascinating world of data analysis, machine learning
   Data Analysis<br>
   Machine Learning<br>
   Open Source Contributions<br>
-  Tech Community Engagement<br>
+  Tech Community Engagement<br><br>
 
 
 Happy coding! 😊👨‍💻<br>
