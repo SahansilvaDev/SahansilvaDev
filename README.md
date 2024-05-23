@@ -4,7 +4,6 @@
   <h1 style="font-size: 36px;">👋 Hello, I'm Sahan Silva (@SahansilvaDev)</h1>
 </div>
 
-:
 
 🚀 About Me
 Hey there! I'm Sahan Silva, a passionate and versatile developer currently studying Data Science. I have a strong background in various areas of software development, and I'm always eager to learn and take on new challenges. Here’s a quick snapshot of what I do:
