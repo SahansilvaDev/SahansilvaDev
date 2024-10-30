@@ -8,7 +8,6 @@
 🚀 About Me
 Hey there! I'm Sahan Silva, a passionate and versatile developer currently studying Data Science. I have a strong background in various areas of software development, and I'm always eager to learn and take on new challenges. <br>
 
-<br><br>
 Data Science Enthusiast | ML & DL , NLP | UI/UX Designer | Web Developer | AI Engineer | Flutter Developer<br>
 
 📚 Aspiring Data Science Student<br>
