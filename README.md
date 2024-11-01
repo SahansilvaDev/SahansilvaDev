@@ -28,6 +28,11 @@ Data Science Enthusiast | ML & DL , NLP | UI/UX Designer | Web Developer | AI En
     Data Science & Machine Learning (ML, DL, NLP, AI Engineering)<br>
     Design (UI/UX Design, Graphic Design)<br>
 
+<img src="https://github.com/user-attachments/assets/0d3ab245-4d30-40c3-8076-793be76737d4" width="200px" height="200px">
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 
 Happy coding! 😊👨‍💻<br>
 
