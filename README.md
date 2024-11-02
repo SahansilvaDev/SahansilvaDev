@@ -27,15 +27,21 @@ Data Science Enthusiast | ML & DL , NLP | UI/UX Designer | Web Developer | AI En
     App Development (Flutter, Android, Java)<br>
     Data Science & Machine Learning (ML, DL, NLP, AI Engineering)<br>
     Design (UI/UX Design, Graphic Design)<br>
+<br><br>
+
+
+<img align="left"  border="0" width="320" data-original-height="1080" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqLAvTqGq-mtjzSLgr90GQJTwym5ZXxuSwkQRelS7Sh3w8V8aMyjUraMrEGj0Cs2yXfsC1VM80hzQEvFLjtggIMyGq0tdOBpkkP7n86K_N6TsFfuDzuGKvEk4gouRva_UD0-eP_mGA6eSmqwD91oTr_b_RUGjjJriC86iHtxACoSqLwOAOtyCdyK7Diiw3/s320/robot%20blue.gif"/>
 
 
 
-<img alt="" border="0" width="320" data-original-height="1080" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqLAvTqGq-mtjzSLgr90GQJTwym5ZXxuSwkQRelS7Sh3w8V8aMyjUraMrEGj0Cs2yXfsC1VM80hzQEvFLjtggIMyGq0tdOBpkkP7n86K_N6TsFfuDzuGKvEk4gouRva_UD0-eP_mGA6eSmqwD91oTr_b_RUGjjJriC86iHtxACoSqLwOAOtyCdyK7Diiw3/s320/robot%20blue.gif"/>
-
-
-
-<a href="https://www.linkedin.com/in/sahan-silva/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/3d-fluency/94/linkedin-logo.png" alt="linkedin" width="40" height="40"/> </a>         <a href="https://facebook.com/sahanxsilva" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/3d-fluency/94/facebook-circled.png" alt="facebook" width="40" height="40"/> </a>             <a href="https://www.instagram.com/sa_ha_x/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram" width="40" height="40"/>    </a>      <a href="https://kaggle.com/sahansilvaai" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" alt="kaggle" width="40" height="40"/> </a>              <a href="https://bloggingbrew.blogspot.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/blogger.png" alt="blogger" width="40" height="40"/> </a>     <a href="https://medium.com/@sahansilva" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/badges/48/medium-logo.png" alt="medium" width="40" height="40"/> </a>          ______________ <b> SignIn platforms</b> |
-
+<p align="left">
+<a href="https://www.linkedin.com/in/sahan-silva/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/3d-fluency/94/linkedin-logo.png" alt="linkedin" width="40" height="40"/> </a>         
+  <a href="https://facebook.com/sahanxsilva" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/3d-fluency/94/facebook-circled.png" alt="facebook" width="40" height="40"/> </a>             
+  <a href="https://www.instagram.com/sa_ha_x/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram" width="40" height="40"/>    </a>      
+  <a href="https://kaggle.com/sahansilvaai" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" alt="kaggle" width="40" height="40"/> </a>             
+  <a href="https://bloggingbrew.blogspot.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/blogger.png" alt="blogger" width="40" height="40"/> </a>     
+  <a href="https://medium.com/@sahansilva" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/badges/48/medium-logo.png" alt="medium" width="40" height="40"/> </a>          ______________ <b> SignIn platforms</b> |
+</p>
 
 
 
