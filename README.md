@@ -27,7 +27,7 @@ Data Science Enthusiast | ML & DL , NLP | UI/UX Designer | Web Developer | AI En
     App Development (Flutter, Android, Java)<br>
     Data Science & Machine Learning (ML, DL, NLP, AI Engineering)<br>
     Design (UI/UX Design, Graphic Design)<br>
-<br><br>
+<br>
 
 
 <img align="left"  border="0" width="320" data-original-height="1080" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqLAvTqGq-mtjzSLgr90GQJTwym5ZXxuSwkQRelS7Sh3w8V8aMyjUraMrEGj0Cs2yXfsC1VM80hzQEvFLjtggIMyGq0tdOBpkkP7n86K_N6TsFfuDzuGKvEk4gouRva_UD0-eP_mGA6eSmqwD91oTr_b_RUGjjJriC86iHtxACoSqLwOAOtyCdyK7Diiw3/s320/robot%20blue.gif"/>
