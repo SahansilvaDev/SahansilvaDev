@@ -32,7 +32,7 @@ Data Science Enthusiast | ML & DL , NLP | UI/UX Designer | Web Developer | AI En
 <br>
 
 
-<img align="left"  border="0" width="320" data-original-height="1080" data-original-width="1080" src="https://github.com/user-attachments/assets/61ece2fc-0a4a-4f31-af6b-99b63309ef9d"/>
+<img align="left"  border="0" width="320" data-original-height="1080" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8tVNEHo1FORuJHglsSLT5YB6ezvKo1K1cXQ3vpXQ59eoSWCBVdMShAzdAkg13GKBGfSEKKlLyEYd6mfYfPdJcewDFN5gjV7hWcpsvJE5c3ENAtSDqCNxLOVCKCj65RCOnMpu4zpGr-Au-s1jiKiN_uhFmV8NTjqhBlx89hboVv7edokaxxv_tcXsi98dc/s1600/side%20pannel.gif"/>
 
 <br>
 <br>
