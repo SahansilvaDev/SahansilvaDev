@@ -1,8 +1,10 @@
-<img alt="" border="0" data-original-height="706" data-original-width="1369" src="https://github.com/user-attachments/assets/06cfb9ed-66e1-4549-9296-ba057087663f"/>
+<img alt="" border="0" data-original-height="706" data-original-width="1369" src="https://github.com/user-attachments/assets/264779c6-5b1d-45b5-9c48-fe8e63589e81"/>
 
 <div align="center">
   <h1 style="font-size: 36px;">👋 Hello, I'm Sahan Silva (@SahansilvaDev)</h1>
 </div>
+
+
 
 
 🚀 About Me
@@ -30,7 +32,7 @@ Data Science Enthusiast | ML & DL , NLP | UI/UX Designer | Web Developer | AI En
 <br>
 
 
-<img align="left"  border="0" width="320" data-original-height="1080" data-original-width="1080" src="https://github.com/user-attachments/assets/61ece2fc-0a4a-4f31-af6b-99b63309ef9d"/>
+<img align="left"  border="0" width="320" data-original-height="1080" data-original-width="1080" src="https://github.com/user-attachments/assets/ee7de50c-8a8e-4ac7-85b1-8de55f07782e"/>
 
 
 <br>
