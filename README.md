@@ -1,4 +1,4 @@
-<img alt="" border="0" data-original-height="222" data-original-width="1150" src="https://github-production-user-asset-6210df.s3.amazonaws.com/159637616/384502690-06cfb9ed-66e1-4549-9296-ba057087663f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T080238Z&X-Amz-Expires=300&X-Amz-Signature=7bbe5c9181eef141c486834b2274764a9c64080fcb7f7b64bbaf3d312495c422&X-Amz-SignedHeaders=host"/>
+<img alt="" border="0" data-original-height="706" data-original-width="1369" src="https://github-production-user-asset-6210df.s3.amazonaws.com/159637616/384502690-06cfb9ed-66e1-4549-9296-ba057087663f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T080238Z&X-Amz-Expires=300&X-Amz-Signature=7bbe5c9181eef141c486834b2274764a9c64080fcb7f7b64bbaf3d312495c422&X-Amz-SignedHeaders=host"/>
 
 <div align="center">
   <h1 style="font-size: 36px;">👋 Hello, I'm Sahan Silva (@SahansilvaDev)</h1>
