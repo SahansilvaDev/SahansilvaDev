@@ -1,4 +1,4 @@
-<img alt="" border="0" data-original-height="706" data-original-width="1369" src="https://github.com/user-attachments/assets/2e0539cf-7113-4def-8226-e6795bdb5488"/>
+<img alt="" border="0" data-original-height="706" data-original-width="1369" src="https://github.com/user-attachments/assets/4e332b4b-21c2-484c-bcdc-5bbb5d1f1d37"/>
 
 <div align="center">
   <h1 style="font-size: 36px;">👋 Hello, I'm Sahan Silva (@SahansilvaDev)</h1>
