@@ -1,4 +1,4 @@
-<img alt="" border="0" data-original-height="706" data-original-width="1369" src="https://github.com/user-attachments/assets/06cfb9ed-66e1-4549-9296-ba057087663f"/>
+<img alt="" border="0" data-original-height="706" data-original-width="1369" src="[https://github.com/user-attachments/assets/06cfb9ed-66e1-4549-9296-ba057087663f](https://github-production-user-asset-6210df.s3.amazonaws.com/159637616/384502690-06cfb9ed-66e1-4549-9296-ba057087663f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T061214Z&X-Amz-Expires=300&X-Amz-Signature=bdb5884191c2af377c72cbacea9c6e4d9f49c26b2b0cfca13c06bc8775d2054c&X-Amz-SignedHeaders=host)"/>
 
 <div align="center">
   <h1 style="font-size: 36px;">👋 Hello, I'm Sahan Silva (@SahansilvaDev)</h1>
@@ -30,7 +30,7 @@ Data Science Enthusiast | ML & DL , NLP | UI/UX Designer | Web Developer | AI En
 <br>
 
 
-<img align="left"  border="0" width="320" data-original-height="1080" data-original-width="1080" src="https://github.com/user-attachments/assets/61ece2fc-0a4a-4f31-af6b-99b63309ef9d"/>
+<img align="left"  border="0" width="320" data-original-height="1080" data-original-width="1080" src="[https://github.com/user-attachments/assets/61ece2fc-0a4a-4f31-af6b-99b63309ef9d](https://github-production-user-asset-6210df.s3.amazonaws.com/159637616/384506105-61ece2fc-0a4a-4f31-af6b-99b63309ef9d.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T061219Z&X-Amz-Expires=300&X-Amz-Signature=168ebe4764f0bbc85aa1c06d14b099c745f8e7437d2516e725ae64632d6decf7&X-Amz-SignedHeaders=host)"/>
 
 
 <br>
