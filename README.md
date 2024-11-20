@@ -54,7 +54,7 @@ Data Science Enthusiast | ML & DL , NLP | UI/UX Designer | Web Developer | AI En
 
 Happy coding! 😊👨‍💻<br>
 
-- 📫 How to reach me sahansilva.online@gmail.com
+- 📫 How to reach me {use my social accounts}
 
 <!---
 SahansilvaDev/SahansilvaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
