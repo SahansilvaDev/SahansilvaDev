@@ -42,7 +42,7 @@ Data Science Enthusiast | ML & DL , NLP | UI/UX Designer | Web Developer | AI En
 
 <b> SignIn platforms</b> 
 <p align="left">
-<a href="https://www.linkedin.com/in/sahan-silva/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/3d-fluency/94/linkedin-logo.png" alt="linkedin" width="40" height="40"/> </a>         
+<a href="https://www.linkedin.com/in/sahan-silva/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" alt="linkedin" width="40" height="40"/> </a>         
   <a href="https://facebook.com/sahanxsilva" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/3d-fluency/94/facebook-circled.png" alt="facebook" width="40" height="40"/> </a>             
   <a href="https://www.instagram.com/sa_ha_x/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram" width="40" height="40"/>    </a>      
   <a href="https://kaggle.com/sahansilvaai" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" alt="kaggle" width="40" height="40"/> </a>             
